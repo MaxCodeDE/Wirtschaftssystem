@@ -1,0 +1,9 @@
+name: Wirtschaftssystem
+autohr: MaxCode
+version: 1.0
+main: me.MaxCode.Wirtschaftssystem.Wirtschaftssystem
+
+commands:
+     ws:
+          usage:
+          default: op
