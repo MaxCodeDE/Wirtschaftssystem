@@ -1,8 +1,6 @@
 # Wirtschaftssystem
 
-Eine EmberJS Frontend App welche mit einem PHP Backend zusammenarbeitet. Es können sehr vereinfacht Tickets erstellt und angezeigt werden.
-
-Link zum Projekt auf meinem Blog.
+Ein komplettes Wirtschaftssystem für einen Bukkit Server. Es können Konten erstellt werdeb genauso wie es möglich ist das Spieler steuern zahlen müssen.
 
 
 ## Vorraussetzungen
